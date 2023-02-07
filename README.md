@@ -1,6 +1,4 @@
-# ecommerce-server
-   ECOMMERCE SERVER
-
+## ecommerce-server
 
 ## Conntributor
 This website is fully made by me 
@@ -9,13 +7,13 @@ This website is fully made by me
 ## Run Locally
 
 ```bash
-  git clone https://github.com/MoovendhanR/movies-app
+  git clone https://github.com/MoovendhanR/ecommerce-server
 ```
 
 Go to the project directory
 
 ```bash
-  cd movies-app
+  cd ecommerce-server
 ```
 
 Install dependencies
